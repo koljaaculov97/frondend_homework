@@ -1,0 +1,36 @@
+
+.initials{
+text-align: center;
+}
+
+img{margin-left: 300px;
+
+}
+div{margin-left: 250px
+}
+
+.profession{
+	width: 400px;
+	color: grey;
+}
+.menu{margin-top:10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+.wrapper{color: grey;
+}
+
+.number{margin-top: 10px;
+        color: grey;
+        margin-left: 280px;
+ }
+
+ a{margin-left: 280px;
+ 	font-style: italic;
+ 	color: blue;
+ }
+ .afeedbeck{
+ 	color: grey;
+ 	margin-top:10px;
+ 	margin-left: 280px;
+ }
